@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarkodSatisProgrami", "BarkodSatisProgrami\BarkodSatisProgrami.csproj", "{6B4126BB-E130-4D55-B2B8-191709557D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lisans", "Lisans\Lisans.csproj", "{718F56DA-3FF7-4D96-9150-B2965BD9C5B2}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BarkodluSatisProje", "BarkodluSatisProje\BarkodluSatisProje.vdproj", "{4F264EAD-7DBD-470B-B24B-915BCD452193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B4126BB-E130-4D55-B2B8-191709557D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4126BB-E130-4D55-B2B8-191709557D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4126BB-E130-4D55-B2B8-191709557D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4126BB-E130-4D55-B2B8-191709557D15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{718F56DA-3FF7-4D96-9150-B2965BD9C5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718F56DA-3FF7-4D96-9150-B2965BD9C5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718F56DA-3FF7-4D96-9150-B2965BD9C5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718F56DA-3FF7-4D96-9150-B2965BD9C5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F264EAD-7DBD-470B-B24B-915BCD452193}.Debug|Any CPU.ActiveCfg = Debug
+		{4F264EAD-7DBD-470B-B24B-915BCD452193}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F9B1560-517A-47E0-9DD1-A8EAF52957F8}
+	EndGlobalSection
+EndGlobal
